@@ -1,0 +1,10 @@
+[
+	{
+		"name":"Desert",
+		"type":"Land",
+		"movementCost":1,
+		"uniques": [
+			"Occurs at temperature between [-1] and [1] and humidity between [0] and [1]"
+		]
+	}
+]
